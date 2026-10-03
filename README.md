@@ -1,4 +1,4 @@
-# Creating a pull request - From the GitHub Docs website
+# Creating a pull request - From the GitHub Docs Website
 
 Create a pull request to propose changes to the code in a repository.
 
